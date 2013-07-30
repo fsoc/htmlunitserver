@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Jul/2013:15:29:39 +0200] "GET /htmlunitserver/HtmlUnitParser?url=http%3A%2F%2Fwww.oceanframework.net%2F%3F_escaped_fragment_%3Dhome%2Foverview HTTP/1.1" 500 2067
+0:0:0:0:0:0:0:1 - - [30/Jul/2013:15:29:39 +0200] "GET /favicon.ico HTTP/1.1" 200 21630
+0:0:0:0:0:0:0:1 - - [30/Jul/2013:15:29:57 +0200] "GET /htmlunitserver/HtmlUnitParser?url=http%3A%2F%2Fwww.oceanframework.net%2F%3F_escaped_fragment_%3Dhome%2Foverview HTTP/1.1" 500 1591
+0:0:0:0:0:0:0:1 - - [30/Jul/2013:15:30:18 +0200] "GET /htmlunitserver/HtmlUnitParser?url=http%3A%2F%2Fwww.oceanframework.net%2F%3F_escaped_fragment_%3Dhome%2Foverview HTTP/1.1" 500 1591
+0:0:0:0:0:0:0:1 - - [30/Jul/2013:15:30:19 +0200] "GET /htmlunitserver/HtmlUnitParser?url=http%3A%2F%2Fwww.oceanframework.net%2F%3F_escaped_fragment_%3Dhome%2Foverview HTTP/1.1" 500 1591
+0:0:0:0:0:0:0:1 - - [30/Jul/2013:15:31:04 +0200] "GET /htmlunitserver/HtmlUnitParser?url=http%3A%2F%2Fwww.oceanframework.net%2F%3F_escaped_fragment_%3Dhome%2Foverview HTTP/1.1" 200 8064
