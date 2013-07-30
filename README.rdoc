@@ -1,10 +1,10 @@
-== Hmlunitserver
+== HtmlUnit Server
 
 This is a HTTP service used for parsing webpages with HtmlUnit.
 
 The purpose is to make AJAX webapps crawlable by adhering to the principles from Google[https://developers.google.com/webmasters/ajax-crawling/] by sending urls containing _escaped_fragment_ to this service.
 
-It returns the html including content generated with Javascript.
+It returns the html including content generated with Javascript that a search engines crawler can consume.
 
 == Running
 
