@@ -1,0 +1,15 @@
+== Hmlunitserver
+
+This is a HTTP service used for parsing webpages with HtmlUnit.
+
+The purpose is to make AJAX webapps crawlable by adhering to the principles from Google[https://developers.google.com/webmasters/ajax-crawling/] by sending urls containing _escaped_fragment_ to this service.
+
+It returns the html including content generated with Javascript.
+
+== Running
+
+Open and run the Eclipse project or run the apache server:
+  ./apache-tomcat-7.0.42/bin/catalina.sh start
+
+And send your calls to the server with the *url=* request parameter containing the desired url in an urlencoded manner. For example:
+  http://localhost:8080/htmlunitserver/HtmlUnitParser?url=http%3A%2F%2Fwww.oceanframework.net%2F%3F_escaped_fragment_%3Dhome%2Foverview
